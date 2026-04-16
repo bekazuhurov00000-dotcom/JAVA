@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class Lab13{
 
     static Random random = new Random();
 
